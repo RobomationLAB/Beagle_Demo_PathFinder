@@ -12,9 +12,6 @@ Path Finder는 Beagle 로봇의 체험형 데모 프로그램입니다.
 
 [PathFinder 설치하기](https://www.dropbox.com/scl/fo/aj5fmw9atbca62bo5fmyl/ALpFXy2laXgSvHFpTqhlGx8?rlkey=zh7ppr8qjcxn8riirmvxjzqsg&e=1&st=gdm2699v&dl=0)
 
-
-
-
 *( ※ PATHFINDER.exe는* **windows** *전용 프로그램입니다. )*
 
 <details>
@@ -45,7 +42,7 @@ Path Finder는 Beagle 로봇의 체험형 데모 프로그램입니다.
 **PATHFINDER 실행파일을 시작하기 전에 로봇과 [PC를 연결](#pc-연결)하고 실행파일을 시작해 주시기 바랍니다.**
 
 
-<img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/d95c7017-3ce1-4d6d-b632-a69e0909af3d" alt="대체 텍스트" width=500>
+<img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/fde7105d-ebed-4c5f-ab8f-05b2ea2b2b4a" alt="대체 텍스트" width=500>
 
 ---
 
@@ -91,7 +88,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 - 우측 상단의 **CONNECT** 버튼을 클릭하여 연결을 시도합니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/c8dcead2-e0cf-43f3-a472-b14203a83295" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/acff5104-8b2f-454d-b88f-607f32d1bece" width = 600>
 
 
 <br><br>
@@ -100,7 +97,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
   
 - 연결에 **실패**했다면 초록 불이 들어오지 않습니다. 이때,  **Beagle의 전원**이 켜져 있는지 확인해봅니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/5b37fad9-b6ea-41bb-9034-8608699ce491" width = 1200> 
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/b6ff25da-ce72-4775-b820-3e24df0febc6" width = 1200> 
 
 
 
@@ -108,7 +105,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 - 우측 상단의 **DISCONNECT** 버튼을 눌러서 Beagle과의 연결을 해제할 수 있습니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/1d46de72-bb80-43ec-813f-0878fa018f82" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/525f6d20-411d-45c5-9d5f-791475e57d1c" width = 600>
 
 <br><br>
 
@@ -116,7 +113,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 
 - Beagle이 연결된 상태에서 프로그램을 실행하면 아래와 같이 프로그램 창이 나타납니다.
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/ab7a8827-3c13-4208-8598-8844ef112777" width = 700>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/ffcdb425-daec-43da-a91c-7d9b401ad240" width = 700>
 
 <br><br>
 
@@ -128,7 +125,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 - **미로찾기**의 경우, 끝과 끝을 무한히 왕복합니다.
 - **무한 반복 모드**는 계속해서 동작이 반복되므로 중지하기 위해서는 **＇STOP＇** 버튼을 클릭합니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/c377f660-394e-4bef-99ab-5c4e2ac2f2ae" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/2bafc807-7dd7-40e9-8366-d115a571399c" width = 600>
 
 <br><br>
 
@@ -161,7 +158,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 - 하단 **PLAY** 버튼을 누르면 다음과 같이 LiDar센서가 활성화되고, 키보드로 Beagle을 제어할 수 있는 상태가 됩니다. 
 
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/47620aa0-58f8-4e5e-9a9e-97eb9392c47f" width = 1200>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/d25ce65f-bfff-4eff-9aa9-5fdee8d1e4d9" width = 1200>
 
 
 
@@ -184,7 +181,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 - **STOP** 버튼을 누르면 키보드와 LiDar센서가 비활성화 됩니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/3e52bcb9-ba8f-458c-9d2b-693da11f32a6" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/f195b52a-afd8-455d-95ec-74e3da59a564" width = 600>
 
 
 
@@ -218,7 +215,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 - 프로그램에서 다른 모드가 실행중이라면, 종료하고 중심찾기 모드를 선택합니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/d2796560-b44a-4a91-93ad-7f6f68acef68" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/bb6cb706-8dc6-4c7d-8034-15d8f1f307b4" width = 600>
 
 
 <br><br>
@@ -233,7 +230,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 - 중심을 찾는 데 성공했다면 중심 찾기가 자동으로 종료됩니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/d858c8db-beda-4098-9a53-97bce1249642" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/033054ab-3060-42e5-8a33-b540e5a32223" width = 600>
 
 
 
@@ -266,8 +263,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/c1f39eaa-27e7-4e67-9bad-38914771a1be" height="200">
-
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/63324bb7-da41-4e8e-8bd6-683766edb659" height="200">
 
 <br><br>
 
@@ -278,7 +274,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 - 프로그램에서 다른 모드가 실행중이라면, 종료하고 방탈출 모드를 선택합니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/3c063ddd-d56d-4498-8b70-1d865faa7b62" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/b3a99acf-1a04-446c-b95d-3bc574615c03" width = 600>
 
 
 <br><br>
@@ -291,7 +287,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 - **PLAY** 버튼을 누르면 Beagle의 LiDar가 활성화 되고 Beagle이 방탈출하는 프로그램이 실행됩니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/4a588d4b-74ab-42a8-94ca-23dbbfbfe06d" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/de90288c-67ca-413d-9e20-278330f49c2f" width = 600>
 
 
 <br><br>
@@ -300,7 +296,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 - 출구를 찾는 데 성공했다면 방탈출이 자동으로 종료됩니다.
 
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/da4355b7-7023-429a-a525-2bba78396e3f" width = 1200>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/a3c194d4-f763-4a28-839b-109d5f2325f7" width = 1200>
 
 
 
@@ -334,7 +330,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 
 - 프로그램에서 다른 모드가 실행중이라면, **종료**하고 미로찾기 모드를 선택합니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/96ce04db-aa7c-42ad-8540-743334ee08b1" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/ce706440-f2f7-4358-8dae-102d55d152b9" width = 600>
 
 
 <br><br>
@@ -344,7 +340,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 - **PLAY** 버튼을 누르면 Beagle의 LiDar가 활성화 되고 미로찾기 프로그램이 실행됩니다.
 
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/bc642a70-6e24-4eb1-971f-a9c664b6b9e0" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/9f9365cd-c93f-4927-a072-49115a82b44b" width = 600>
 
 
 <br><br>
@@ -352,7 +348,7 @@ Beagle에서 **삑** 소리가 나고 **Beagle의 통신 상태 표시등**과 *
 - Beagle이 어떤 방식으로 미로를 해결해 나아가는지 생각해 봅니다.
 - 성공하면 미로찾기가 자동으로 종료됩니다.
 
-    <img src="https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/d681d4e4-df65-4850-9201-942b5e15ad55" width = 600>
+    <img src="https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/118905e5-bfaa-4333-9c44-539372fbf25d" width = 600>
 
 
 
