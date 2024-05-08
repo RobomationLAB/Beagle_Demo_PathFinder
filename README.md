@@ -12,6 +12,9 @@ Path Finder는 Beagle 로봇의 체험형 데모 프로그램입니다.
 
 [PathFinder 설치하기](https://www.dropbox.com/scl/fo/aj5fmw9atbca62bo5fmyl/ALpFXy2laXgSvHFpTqhlGx8?rlkey=zh7ppr8qjcxn8riirmvxjzqsg&e=1&st=gdm2699v&dl=0)
 
+
+
+
 *( ※ PATHFINDER.exe는* **windows** *전용 프로그램입니다. )*
 
 <details>
@@ -21,13 +24,13 @@ Path Finder는 Beagle 로봇의 체험형 데모 프로그램입니다.
 위 링크로 들어가, 다음과 같이 **로그인하지 않은 상태**로 다운로드를 진행할 수 있습니다.<br>
 [ 다운로드 ] → [ 또는 다운로드만 하고 계속 진행하세요. ] 순으로 클릭합니다.
 
-<img src='https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/5304f6f7-a23f-478b-a831-36ea67c13c65' width=600>
+<img src='https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/bd19bcc5-2aaa-44e3-8cf2-65e22c0e432e' width=600>
 
 <br><br>
 
 브라우저 우측 상단에 다운로드 버튼을 눌러 설치된 zip파일을 선택하고, 설치된 zip파일을 원하는 위치에 압축을 해제합니다.
 
-<img src='https://github.com/tjdtnxx/Personal_tjdtn/assets/160319639/61920b46-9487-4686-a0f0-a7866963f149' width=600>
+<img src='https://github.com/RobomationLAB/BeagleAPI_KR/assets/160319639/d930da99-5aaa-497b-9e90-723a0ff01c1b' width=600>
 
 
 ---
