@@ -10,7 +10,8 @@ Path Finder는 Beagle 로봇의 체험형 데모 프로그램입니다.
 
 <br>
 
-[PathFinder 설치하기](https://www.dropbox.com/scl/fo/cewii3qooqgvk1m7d503d/AAUPjnIgEuXjM0lyzdtEncg?rlkey=9kfnnz0lo7ign8yrgrtekgq9o&e=1&st=adw4n2dk&dl=0)
+[PathFinder 설치하기](https://www.dropbox.com/scl/fo/aj5fmw9atbca62bo5fmyl/ALpFXy2laXgSvHFpTqhlGx8?rlkey=zh7ppr8qjcxn8riirmvxjzqsg&e=1&st=gdm2699v&dl=0)
+
 
 *( ※ PATHFINDER.exe는* **windows** *전용 프로그램입니다. )*
 
