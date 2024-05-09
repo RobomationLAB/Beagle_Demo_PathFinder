@@ -1,4 +1,4 @@
-# Path Finder
+# PathFinder
 
 Path Finder는 Beagle 로봇의 체험형 데모 프로그램입니다.
 
